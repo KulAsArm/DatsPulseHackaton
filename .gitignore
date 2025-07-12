@@ -1,3 +1,5 @@
 *.env
 *.yml
 *.DS_store
+.idea/
+test_script/__pycache__/
